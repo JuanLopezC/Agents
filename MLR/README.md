@@ -1,4 +1,4 @@
-## SLR - Algoritmo de Regresion lieal simple
+## SLR - Algoritmo de Regresion lieal multiple
 
 ###### Compilar:
 >- javac -cp lib\jade.jar src\MLR\*.java -d classes\
